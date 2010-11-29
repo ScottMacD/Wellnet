@@ -1,0 +1,67 @@
+        table
+        {
+        background-color: #000000;
+        }
+		.divcenter
+		{
+			text-align:right;
+	      	
+		}
+        .buttons
+        {
+            width: 175px;
+            text-align: left;
+            height:43px; 
+        }
+        .header
+        {
+           font-size: large;
+            font-family: Verdana;
+            background-color: #000000;
+            background-image: url('images/header.jpg');
+            height: 120px;
+            width: 403px;
+        }
+        .headertitle
+        {
+        font-family:@Arial Unicode MS;
+        font-size:x-large;
+        color: #B5CB85;  
+        text-align:center;  
+        }
+        .bottom
+        {
+            text-align: left;
+        }
+        .header2
+        {
+            width: 377px;
+            height: 120px;
+            background-image: url('images/paradise.jpg');
+        }
+
+        .suscription
+        {
+            height: 37px;
+        }
+		.bodypages
+		{
+			background-color:#000000;
+		}
+		.advertising
+		{
+		     background-image: url('images/doitwithus.jpg');
+		}
+		.textcolor
+		{
+			color:#9A32CD;
+		}
+		.buttonstop
+		{
+			width: 80px; 
+			height: 21px;			
+		}
+		
+		
+ 		
+
